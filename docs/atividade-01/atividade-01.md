@@ -26,16 +26,16 @@ Justificativa - O sistema se mostra incapaz de se adaptar a diferentes tipos de 
 5. 
 Problema      - Usuários encontram dificuldade para concluir ações simples;
 Atributo      - Usabilidade;
-Justificativa - O sistema se mostra instável para ações simples demonstrando ausência de acessibilidade e operabilidade. 
+Justificativa - O sistema se mostra instável para ações simples demonstrando ausência de acessibilidade e operabilidade;
 
 6.
-Problema      - Avaliações desaparecem após atualização da página
-Atributo      - Confiabilidade
+Problema      - Avaliações desaparecem após atualização da página;
+Atributo      - Confiabilidade;
 Justificativa - O sistema demonstra ausência de maturidade quanto a erros e intolerante recuperação de dados, erros os quais reduzem a confiabilidade dos usuários;
 
 7. 
-Problema      - Há inconsistências entre a versão web e a versão mobile
-Atributo      - Portabilidade e Usabilidade
+Problema      - Há inconsistências entre a versão web e a versão mobile;
+Atributo      - Portabilidade e Usabilidade;
 Justificativa - O sistema se mostra incapaz de se adaptar a diversos tamanhos de telas, declarando ausência de usabilidade e portabilidade ao usuário;
 
 
