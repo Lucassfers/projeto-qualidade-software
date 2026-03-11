@@ -1,7 +1,7 @@
-Lucas Fernandes da Silva — 782410005
-Henrique dos Santos Laroque — 782410119
-Derick dos Santos Laroque - 782410022
-Adriel Martins de Anunciação - 782410021
+# Lucas Fernandes da Silva — 782410005
+# Henrique dos Santos Laroque — 782410119
+# Derick dos Santos Laroque - 782410022
+# Adriel Martins de Anunciação - 782410021
 
 1.
 Problema      - O sistema fica lento em horários de pico;
