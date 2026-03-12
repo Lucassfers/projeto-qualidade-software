@@ -4,7 +4,7 @@
 # Adriel Martins de Anunciação - 782410021
 
 1.
-Problema      - O sistema fica lento em horários de pico;
+Problema      - O sistema fica lento em horários de pico;\n
 Atributo      - Eficiência e desempenho;
 Justificativa - O contexto se enquadra exatamente nos requisitos de "Comportamento no Tempo" e "Capacidade" as quais são afedatas devido a utilização simultânea de diversos usuários;
 
