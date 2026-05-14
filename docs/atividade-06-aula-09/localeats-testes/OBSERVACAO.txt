@@ -1,0 +1,1 @@
+Arquivos extraidos da pasta docs/atividade-06/localeats-testes do repositorio informado. A pasta node_modules nao foi incluida, pois e uma pasta de dependencias gerada automaticamente. Para recriar, execute npm install dentro da pasta do projeto.
